@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Mahjong/Mahjong.vcxproj" Id="0cd32799-8ce1-42a2-9009-9f3c06322ecf" />
+</Solution>
