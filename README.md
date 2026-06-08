@@ -1,5 +1,3 @@
-<img width="968" height="283" alt="螢幕擷取畫面 2026-06-08 033848" src="https://github.com/user-attachments/assets/4aad2a45-a95a-46f2-a812-bd5cffe81415" />
-<img width="968" height="283" alt="螢幕擷取畫面 2026-06-08 033848" src="https://github.com/user-attachments/assets/4a910418-4ba5-407c-b7ab-158dd8048a78" />
 # 小專題題目:日本三人麻將
 ## 組別編碼:11
 ## 系級班級:資工1B
