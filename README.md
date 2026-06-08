@@ -44,6 +44,11 @@
 ### UML圖:
 ## 遊戲執行及安裝方式
 ## 程式畫面截圖
+<img width="965" height="137" alt="螢幕擷取畫面 2026-06-08 035702" src="https://github.com/user-attachments/assets/5cc0de07-c115-4ed7-ab0c-496d097b60c7" />
+<img width="561" height="176" alt="螢幕擷取畫面 2026-06-08 040919" src="https://github.com/user-attachments/assets/9117f724-b4cb-4ca4-a7dc-8d7d556b2148" />
+<img width="557" height="174" alt="螢幕擷取畫面 2026-06-08 040932" src="https://github.com/user-attachments/assets/78fec4d8-181b-4cdc-a6ef-0eedb0f16268" />
+
+
 ## 分工資訊:
 - 賴柏杰(組長):程式製作、ppt製作
 - 陳弘騏:程式製作、ppt製作、UML流程圖
