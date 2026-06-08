@@ -1,3 +1,5 @@
+<img width="968" height="283" alt="螢幕擷取畫面 2026-06-08 033848" src="https://github.com/user-attachments/assets/4aad2a45-a95a-46f2-a812-bd5cffe81415" />
+<img width="968" height="283" alt="螢幕擷取畫面 2026-06-08 033848" src="https://github.com/user-attachments/assets/4a910418-4ba5-407c-b7ab-158dd8048a78" />
 # 小專題題目:日本三人麻將
 ## 組別編碼:11
 ## 系級班級:資工1B
@@ -44,9 +46,14 @@
 ### UML圖:
 ## 遊戲執行及安裝方式:任何C++軟體
 ## 程式畫面截圖
+<img width="968" height="283" alt="螢幕擷取畫面 2026-06-08 033848" src="https://github.com/user-attachments/assets/47e9fd66-46be-4d10-a7b6-c0ba31cf9f15" />
+<img width="953" height="133" alt="螢幕擷取畫面 2026-06-08 034538" src="https://github.com/user-attachments/assets/f4092cca-fbfc-4d89-bf67-d4ebd8cf72ee" />
+<img width="955" height="227" alt="螢幕擷取畫面 2026-06-08 034627" src="https://github.com/user-attachments/assets/2245e35a-4941-4a63-b5c6-a6d77c95b888" />
+<img width="975" height="222" alt="螢幕擷取畫面 2026-06-08 035333" src="https://github.com/user-attachments/assets/c6f35549-36f7-48de-be84-c80c6e83d923" />
 <img width="965" height="137" alt="螢幕擷取畫面 2026-06-08 035702" src="https://github.com/user-attachments/assets/5cc0de07-c115-4ed7-ab0c-496d097b60c7" />
 <img width="561" height="176" alt="螢幕擷取畫面 2026-06-08 040919" src="https://github.com/user-attachments/assets/9117f724-b4cb-4ca4-a7dc-8d7d556b2148" />
 <img width="557" height="174" alt="螢幕擷取畫面 2026-06-08 040932" src="https://github.com/user-attachments/assets/78fec4d8-181b-4cdc-a6ef-0eedb0f16268" />
+<img width="971" height="196" alt="螢幕擷取畫面 2026-06-08 062355" src="https://github.com/user-attachments/assets/b57be9ba-e101-4ac8-b452-4d705e848a9a" />
 
 
 ## 分工資訊:
