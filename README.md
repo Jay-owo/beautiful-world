@@ -42,7 +42,7 @@
 *   **輪替摸牌**：若對手出牌滿兩輪玩家皆選「不理」，則自動由牌山摸一張新牌，重新回到「玩家回合」。
 
 ### UML圖:
-## 遊戲執行及安裝方式
+## 遊戲執行及安裝方式:任何C++軟體
 ## 程式畫面截圖
 <img width="965" height="137" alt="螢幕擷取畫面 2026-06-08 035702" src="https://github.com/user-attachments/assets/5cc0de07-c115-4ed7-ab0c-496d097b60c7" />
 <img width="561" height="176" alt="螢幕擷取畫面 2026-06-08 040919" src="https://github.com/user-attachments/assets/9117f724-b4cb-4ca4-a7dc-8d7d556b2148" />
