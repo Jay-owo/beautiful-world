@@ -37,7 +37,7 @@ void Player::disCard(int index) {
 }
 bool Player::hasNorth() {
 	for (auto &t : hand) {
-		if (t.suit == 3 && t.value == 3) {
+		if (t.suit == 3 && t.value == 4) {
 			return true;
 		}
 	}
@@ -45,7 +45,7 @@ bool Player::hasNorth() {
 }
 void Player::kita() {
 	for (int i = 0;i < hand.size();i++) {
-		if (hand[i].suit == 3 && hand[i].value == 3) {
+		if (hand[i].suit == 3 && hand[i].value == 4) {
 			cout << "拔北" << endl;
 			hand.erase(hand.begin() + i);
 			kitacount++;
