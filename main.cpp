@@ -61,7 +61,7 @@ int main() {
 				if(A == 3){
 					if (player.checkRon(t)) {
 						cout << " 榮和！" << endl;
-						break;
+						return 0;
 					}
 					else {
 						cout << "未胡牌！" << endl;
