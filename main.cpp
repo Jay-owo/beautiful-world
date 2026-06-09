@@ -29,7 +29,7 @@ int main() {
 		cout << "拔北張數: " << kitacount << endl;
 		cout << "副露數: "<< player.getMeldCount()<< endl;
 		if (deck.Empty()) {
-			cout << "沒牌了，可以按3離開~" << endl;
+			cout << "沒牌了，可以按4離開~" << endl;
 		}
 		player.sortHand();
 		player.showHand();
